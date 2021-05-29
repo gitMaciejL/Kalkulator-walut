@@ -1,0 +1,63 @@
+body {
+    width: 33%;
+}
+
+#res {
+    background-color: lightgray;
+    border: solid;
+    height: 48px;
+    font-size: 20px;
+}
+
+#btns button {
+    width: 33.333%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0;
+    float: left;
+}
+
+#btn0,
+#btn1,
+#btn2,
+#btn3,
+#btn4,
+#btn5,
+#btn6,
+#btn7,
+#btn8,
+#btn9 {
+    background-color: lightgreen;
+    color: brown;
+}
+
+#btns #btnClr {
+    width: 20%;
+    height: 55px;
+    background-color: lightgray;
+    color: black;
+}
+
+#btns #btnEql {
+    width: 80%;
+    height: 55px;
+    background-color: darkgreen;
+    color: white;
+}
+
+input[type=text],
+select {
+    width: 66.666%;
+    height: 34px;
+    margin: 1px 0;
+    border: 3px solid #ccc;
+}
+
+.a_link {
+    padding: 17px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
